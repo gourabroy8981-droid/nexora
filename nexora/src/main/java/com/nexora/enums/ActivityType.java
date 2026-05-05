@@ -1,0 +1,10 @@
+package com.nexora.enums;
+
+public enum ActivityType {
+
+    FOLLOWED_USER,
+    LIKED_PROJECT,
+    CREATED_PROJECT,
+    DEVSCORE_MILESTONE,
+    USER_FOLLOWED, PROJECT_CREATED, PROJECT_LIKED, BADGE_EARNED
+}
